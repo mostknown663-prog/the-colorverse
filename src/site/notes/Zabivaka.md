@@ -24,8 +24,8 @@
 > |Age|49|
 > |Pronouns|He/Him|
 > |Species| <ul><li>Wolf (Original Media Universe)</li><li>Color (Colorverse/Chromaverse)</li></ul>|
-> |Subspecies||
-> |Variety||
+> |Subspecies|Character Color|
+> |Variety|Mascot Color|
 > |Special Feature||
 > |Clothes||
 > |Needs Glasses?||
