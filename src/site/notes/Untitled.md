@@ -6,4 +6,4 @@ Welcome to my part of the internet that I dedicate to my drawings and fictional 
 
 For the pages, check below!
 
-[<span style="background:linear-gradient(90deg, #BDB070, #F1EDE4, #0F409A, #AB0000); background-clip:text;-webkit-background-clip: text; color: transparent; -webkit-text-file-color: transparent;font-weight:bold;font-family: 'Fredoka', cursive;">Zabivaka </span>]
+[[Zabivaka\|Zabivaka]]
